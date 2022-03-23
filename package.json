@@ -9,7 +9,7 @@
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.3",
     "sharedstreets": "^0.12.4",
-    "through2": "^3.0.1"
+    "through2": "^3.0.2"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
